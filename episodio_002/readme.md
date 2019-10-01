@@ -16,7 +16,7 @@ Objetivo
 
 Dado un numero entero, determina si es un cuadrado perfecto:
 
-    En matematicas, un cuadrado perfecto es un entero que es el cuadrado de un entero; en otras palabras, es el producto de un entero con sigo mismo.
+    En matematicas, un cuadrado perfecto es un entero que es el cuadrado de un entero; en otras palabras, es el producto de un entero con sigo mismo. 
 
 Los test siempre usaran un numero entero. Ejemplos:
 
@@ -57,22 +57,20 @@ http://stackoverflow.com/questions/6093874/why-doesnt-the-sort-function-of-javas
 ---
 
 
-# Encuentra la palabra faltante
+# Encuentra la letra faltante
 
 ## URL: https://www.codewars.com/kata/5839edaa6754d6fec10000a2
 
 ## Puntuación: 6kyu
 
-## palabra-faltante.js
+## letra-faltante.js
 
-Escribe una funcion que tome reciba un arreglo de letras consecutivas como entrada y que devuelva la letra faltante en el arreglo. La funcion siempre recibira un arreglo valido y siempre habra exactamente una letra faltante. La longitud del arreglo siempre será al menos 2. Las letras siempre estaran o mayusculas, o minusculas.
+Escribe una funcion que reciba un arreglo de letras consecutivas como entrada y que devuelva la letra faltante en el arreglo. La funcion siempre recibira un arreglo valido y siempre habra exactamente una letra faltante. La longitud del arreglo siempre será al menos 2. Las letras siempre estaran o mayusculas, o minusculas.
 
 Ejemplo:
 
-['a','b','c','d','f'] -> 'e' ['O','Q','R','S'] -> 'P'
-
-["a","b","c","d","f"] -> "e"
-["O","Q","R","S"] -> "P"
+['a','b','c','d','f'] -> 'e'
+['O','Q','R','S'] -> 'P'
 
 (Utiliza el alfabeto en ingles con 26 letras!)
 ---
