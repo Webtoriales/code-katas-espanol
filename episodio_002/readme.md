@@ -1,10 +1,15 @@
-# Eres un cuadrado
+Link de YouTube: https://youtu.be/xFofQEKBSbY
+Fecha: 30 sept. 2019
 
-## URL: https://www.codewars.com/kata/54c27a33fb7da0db0100040e
+---
 
-## Puntuación: 7kyu
+## Eres un cuadrado
 
-## eres-un-cuadrado.js
+### URL: https://www.codewars.com/kata/54c27a33fb7da0db0100040e
+
+### Puntuación: 7kyu
+
+### eres-un-cuadrado.js
 
 Un cuadrado de cuadrados
 
@@ -31,13 +36,13 @@ isSquare(26) devuelve  false
 ---
 
 
-# Aplasta y ordena el arreglo
+## Aplasta y ordena el arreglo
 
-## URL: https://www.codewars.com/kata/57ee99a16c8df7b02d00045f
+### URL: https://www.codewars.com/kata/57ee99a16c8df7b02d00045f
 
-## Puntuación: 7kyu
+### Puntuación: 7kyu
 
-## aplastar-ordenar-arreglo.js
+### aplastar-ordenar-arreglo.js
 
 Desafio:
 
@@ -57,13 +62,13 @@ http://stackoverflow.com/questions/6093874/why-doesnt-the-sort-function-of-javas
 ---
 
 
-# Encuentra la letra faltante
+## Encuentra la letra faltante
 
-## URL: https://www.codewars.com/kata/5839edaa6754d6fec10000a2
+### URL: https://www.codewars.com/kata/5839edaa6754d6fec10000a2
 
-## Puntuación: 6kyu
+### Puntuación: 6kyu
 
-## letra-faltante.js
+### letra-faltante.js
 
 Escribe una funcion que reciba un arreglo de letras consecutivas como entrada y que devuelva la letra faltante en el arreglo. La funcion siempre recibira un arreglo valido y siempre habra exactamente una letra faltante. La longitud del arreglo siempre será al menos 2. Las letras siempre estaran o mayusculas, o minusculas.
 

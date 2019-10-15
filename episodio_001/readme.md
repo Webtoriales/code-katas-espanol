@@ -1,10 +1,15 @@
-# La aguja en el pajar
+Link de YouTube: https://youtu.be/r14aWlqyHEM
+Fecha: 20 sept. 2019.
 
-## URL: https://www.codewars.com/kata/56676e8fabd2d1ff3000000c
+---
 
-## Puntuación: 8kyu
+## La aguja en el pajar
 
-## aguja-en-pajar.js
+### URL: https://www.codewars.com/kata/56676e8fabd2d1ff3000000c
+
+### Puntuación: 8kyu
+
+### aguja-en-pajar.js
 
 ¿Puedes encontrar la aguja en el pajar?
 
@@ -21,13 +26,13 @@ Debería devolver: *"found the needle at position 5"*
 ---
 
 
-# La cadena más larga de vocales
+## La cadena más larga de vocales
 
-## URL: https://www.codewars.com/kata/59c5f4e9d751df43cf000035
+### URL: https://www.codewars.com/kata/59c5f4e9d751df43cf000035
 
-## Puntuación: 7kyu
+### Puntuación: 7kyu
 
-## cadena-larga-vocales.js
+### cadena-larga-vocales.js
 
 El substring de vocales en la palabra "codewarriors" es o, e, a, io. La cadena más larga de estos tiene una longitud de 2. Dado una hilera de caracteres en minúsculas que solo tiene caracteres alfabéticos y sin espacios, devuelve la longitud del substring más largo de vocales. Las vocales son aeiou.
 
@@ -36,13 +41,13 @@ El substring de vocales en la palabra "codewarriors" es o, e, a, io. La cadena m
 ---
 
 
-# Espácialo
+## Espácialo
 
-## URL: https://www.codewars.com/kata/57f8ee485cae443c4d000127
+### URL: https://www.codewars.com/kata/57f8ee485cae443c4d000127
 
-## Puntuación: 7kyu
+### Puntuación: 7kyu
 
-## espacialo.js
+### espacialo.js
 
 Modifica la función "spacify" para que devuelva la hilera de caracteres dada con espacios insertados entre cada caracter.
 

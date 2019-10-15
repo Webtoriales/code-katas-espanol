@@ -1,10 +1,15 @@
-# Corrige los errores del software de reconocimiento de caracteres
+Link de YouTube: https://youtu.be/_Bk-ne6K3f0
+Fecha: 13 sept. 2019
 
-## URL: https://www.codewars.com/kata/577bd026df78c19bca0002c0
+---
 
-## Puntuación: 8kyu
+## Corrige los errores del software de reconocimiento de caracteres
 
-## error-reconocimiento-caracteres.js
+### URL: https://www.codewars.com/kata/577bd026df78c19bca0002c0
+
+### Puntuación: 8kyu
+
+### error-reconocimiento-caracteres.js
 
 Los programas de reconocimiento de caracteres son muy utilizados para digitalizar textos impresos. De esta forma, los textos pueden ser editados, buscados y guardados en una computadora.
 
@@ -21,13 +26,13 @@ Los casos de prueba contienen números únicamente por error.
 ---
 
 
-# Grillo - Saludo Personalizado
+## Grillo - Saludo Personalizado
 
-## URL: https://www.codewars.com/kata/5772da22b89313a4d50012f7
+### URL: https://www.codewars.com/kata/5772da22b89313a4d50012f7
 
-## Puntuación: 8kyu
+### Puntuación: 8kyu
 
-## grillo-saludo-personalizado.js
+### grillo-saludo-personalizado.js
 
 Crea una función que devuelva un saludo personalizado. Esta función toma dos parámetros: nombre y dueño. Usa condicionales para devolver el mensaje apropiado:
 
@@ -39,13 +44,13 @@ otherwise 	              'Hello guest'
 ---
 
 
-# ¡Impares afuera!
+## ¡Impares afuera!
 
-## URL: https://www.codewars.com/kata/5d376cdc9bcee7001fcb84c0
+### URL: https://www.codewars.com/kata/5d376cdc9bcee7001fcb84c0
 
-## Puntuación: 7kyu
+### Puntuación: 7kyu
 
-## impares-afuera.js
+### impares-afuera.js
 
 ¡Al sheriff del pueblo no le gustan los números impares y quiere a todas las familias de números impares fuera de la cuidad! En el pueblo, gentíos se pueden formar e individuos son comúnmente mezclados con con otra gente y familias. Sin embargo, nosotros podemos distinguir la familia a la que esos individuos pertenecen por el número de camisetas que usan. Como asistente del sheriff, es nuestro trabajo encontrar todas las familias de números impares y sacarlas de la ciudad.
 
