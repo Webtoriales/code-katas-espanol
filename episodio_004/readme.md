@@ -1,5 +1,5 @@
-Link de YouTube: https://youtu.be/k93z7nq-njY
-Fecha: 16 dec. 2020.
+Link de YouTube: -- N/A --
+Fecha: 16 ene. 2020.
 
 ---
 
@@ -56,47 +56,5 @@ Ejemplo: "John Doe hs 7 red pples under his bsket" => 0;
 Ejemplo: "Bb Smith sent us six neatly arranged range bicycles" => 3;
 
 No tienes que validar el string y cada oración tendrá todas las vocales excepto una. Tampoco te tendrás que preocupar de mayúsculas.
-
----
-
-## Suma de Dígitos - Digital Root
-
-### URL: https://www.codewars.com/kata/541c8630095125aba6000c00
-
-### Puntuación: 6kyu
-
-### digital-root.js
-
-En esta kata, debes crear una funcion tipo digital root.
-
-Una función tipo digital root es la suma recursiva de todos los dígitos en un número. Dado n, realiza la suma de todos los dígitos de n. Si ese valor tiene más de un dígito, continua reduciendo de esta manera hasta que un número de un sólo dígito sea producido. Esto es solo aplicable a número naturales.
-
-Así es como funciona:
-
-```
-digital_root(16)
-=> 1 + 6
-=> 7
-
-digital_root(942)
-=> 9 + 4 + 2
-=> 15 ...
-=> 1 + 5
-=> 6
-
-digital_root(132189)
-=> 1 + 3 + 2 + 1 + 8 + 9
-=> 24 ...
-=> 2 + 4
-=> 6
-
-digital_root(493193)
-=> 4 + 9 + 3 + 1 + 9 + 3
-=> 29 ...
-=> 2 + 9
-=> 11 ...
-=> 1 + 1
-=> 2
-```
 
 ---
