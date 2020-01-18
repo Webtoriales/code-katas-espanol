@@ -57,24 +57,6 @@ Ejemplo: "Bb Smith sent us six neatly arranged range bicycles" => 3;
 
 No tienes que validar el string y cada oración tendrá todas las vocales excepto una. Tampoco te tendrás que preocupar de mayúsculas.
 
-
----
-
-
-## Multiplos de 3 o de 5
-
-### URL: https://www.codewars.com/kata/514b92a657cdc65150000006
-
-### Puntuación: 6kyu
-
-### multiplos-3-5.js
-
-Si listamos todos los numeros naturales debajo de 10 que son multiplos de 3 o 5, obtenemos 3, 5, 6 y 9. La suma de estos multipls es 23.
-
-Finaliza la solucion de manera que retorne la suma de todos los multipls de 3 o 5 por debajo del numero recibido.
-
-  Nota: Si el numero is multiplo de ambos 3 y 5, solo se cuenta una vez.
-
 ---
 
 ## Suma de Dígitos - Digital Root
@@ -87,7 +69,7 @@ Finaliza la solucion de manera que retorne la suma de todos los multipls de 3 o 
 
 En esta kata, debes crear una funcion tipo digital root.
 
-Una función tipo digital root es la suma recursive de todos los dígitos en un número. Dado b, realiza la suma de todos los dígitos de n. Si ese valor tiene más de un dígito, continua reduciendo de esta manera hasta que un número de un sólo dígito sea producido. Esto es solo aplicable a número naturales.
+Una función tipo digital root es la suma recursiva de todos los dígitos en un número. Dado n, realiza la suma de todos los dígitos de n. Si ese valor tiene más de un dígito, continua reduciendo de esta manera hasta que un número de un sólo dígito sea producido. Esto es solo aplicable a número naturales.
 
 Así es como funciona:
 
