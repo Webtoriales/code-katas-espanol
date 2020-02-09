@@ -1,5 +1,5 @@
-Link de YouTube: https://www.youtube.com/watch?v=lj-hPuBeYwM
-Fecha: 18 ene. 2020.
+Link de YouTube: --NA--
+Fecha: 8 de Feb, 2020.
 
 ---
 
@@ -34,11 +34,11 @@ Ejemplos:
 
 ### bombillos-luz.js
 
-Agunos bombillos estan puestos en circulo, en direccion a las manecillas del reloj. Estan encendidos (1) o apagados (0).
+Algunos bombillos estan puestos en circulo, en direccion a las manecillas del reloj. Estan encendidos (1) o apagados (0).
 
 Cada turno, los bombillos de luz cambian su estado. Si un bombillo estaba encendido el turno anterior, el bombillo a su derecha cambiara estado. Por ejemplo, si bombillos[0] estaba encendido, bombillos[1] cambiara su estado.
 
-Encuentra el estado de los bombillos despues de n turnos.
+Encuentra el estado de los bombillos despues de n cantidad de turnos.
 
 Ejemplo
 
@@ -47,7 +47,7 @@ Para `bombillos = [0,1,1,0,1,1], n = 2` la salida debera ser `[1, 0, 1, 1, 0, 1]
 Asi es como los bombillos cambian cada turno:
 
 ```
-0) 0 1 1 0 1 1   -- orginal state
+0) 0 1 1 0 1 1   -- estado original
 1) 1 1 0 1 1 0   -- 1st turn
 2) 1 0 1 1 0 1   -- 2nd turn
 ```
@@ -62,7 +62,7 @@ Asi es como los bombillos cambian cada turno:
 
 ### arreglos-intercalados.js
 
-Crea una funcion que acepte un numero arbitrario de arreglos y devuelva un solo arreglo generado al alternar agregar elementos de cada arreglo pasado como argumento. Si un arreglo es mas corto que los otros, el resultado debe ser "acolchado" con valores nulos.
+Crea una funcion que acepte un numero arbitrario de arreglos y devuelva un solo arreglo generado al alternar agregar elementos de cada arreglo que fue como argumento. Si un arreglo es mas corto que los otros, el resultado debe ser "acolchado" con valores nulos.
 
 Ejemplos:
 
