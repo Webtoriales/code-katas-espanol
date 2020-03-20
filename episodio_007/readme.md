@@ -52,17 +52,17 @@ Deberia devolver: 160 (el unico valor par)
 
 ### URL: https://www.codewars.com/kata/551dc350bf4e526099000ae5
 
-### Puntuación: 5kyu
+### Puntuación: 6kyu
 
 ### dubstep.js
 
 Polycarpus trabaja como DJ en el mejor club nocturno de Berland, y frecuentemente usa musica Dubstep en sus presentaciones. Recientemente ha decidido tomar un par de canciones viejas y hacer mezclas de dubstep de ellas.
 
-Asumamos que una cancion consiste del mismo numero de palabras (que no contienen WUB). Para hacer una mezcla de esta cacion, Polycarpus inserta una cierta cantidad de palabras "WUB" antes de la primer palabra de la cancion (este numero puede ser cero), despues de la ultima palabra (puede ser cero) y entre palabras (por lo menos una entre cada par de palabras vecinas), y luego el chico pega todas las palabras, uncluido "WUB", en una sola hilera de caracteres y reproduce la cancion en el club.
+Asumamos que una cancion consiste del mismo numero de palabras (que no contienen WUB). Para hacer una mezcla de esta cacion, Polycarpus inserta una cierta cantidad de palabras "WUB" antes de la primer palabra de la cancion (este numero puede ser cero), despues de la ultima palabra (puede ser cero) y entre palabras (por lo menos una entre cada par de palabras vecinas), y luego el chico pega todas las palabras, incluido "WUB", en una sola hilera de caracteres y reproduce la cancion en el club.
 
-Por ejemplo, una cancion con las palabras "I AM X" se transforma en una mezcla dubstep como "WUBWUBIWUBAMWUBWUBX" y no se puede trasnformar en "WUBWUBIAMWUBX".
+Por ejemplo, una cancion con las palabras "I AM X" se transforma en una mezcla dubstep como "WUBWUBIWUBAMWXUBWUB" y no se puede transformar en "WUBWUBIAMWUBX".
 
-Recientemente, Jonny empezo a escuchar las canciones dubstepo de Polycarpus, pero como no le gusta la musica moderna, ha decidido averiguar cual es la cancion original que Polycarpus mezclo. Ayuda a Jonny a restaurar la cancion original.
+Recientemente, Jonny empezo a escuchar las canciones dubstep de Polycarpus, pero como no le gusta la musica moderna, ha decidido averiguar cual es la cancion original que Polycarpus mezclo. Ayuda a Jonny a restaurar la cancion original.
 
 **Input**
 
