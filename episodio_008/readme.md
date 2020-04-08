@@ -11,16 +11,16 @@ Fecha: 7 de Abril, 2020.
 
 ### a-quien-le-gusta.js
 
-Probablemente conoces es sistema de "me gusta" de Facebook y otras paginas. Las personas pueden hacer click en "me gusta" en blog posts, imagenes u otros items. Queremos crear el texto que debe mostrarse al lado de esos items.
+Probablemente conoces el sistema de "me gusta" de Facebook y otras paginas. Las personas pueden hacer click en "me gusta" en blog posts, imagenes u otros items. Queremos crear el texto que debe mostrarse al lado de esos items.
 
 Implementa una funcion `likes` que tome un arreglo como entrada, conteniendo el nombre de las personas que les gusta ese item. Debe devolver el texto a mostrar, tal como se ven en los ejemplos:
 
 ```
-likes [] // must be "no one likes this"
-likes ["Peter"] // must be "Peter likes this"
-likes ["Jacob", "Alex"] // must be "Jacob and Alex like this"
-likes ["Max", "John", "Mark"] // must be "Max, John and Mark like this"
-likes ["Alex", "Jacob", "Mark", "Max"] // must be "Alex, Jacob and 2 others like this"
+likes [] // debe ser "no one likes this"
+likes ["Peter"] // debe ser "Peter likes this"
+likes ["Jacob", "Alex"] // debe ser "Jacob and Alex like this"
+likes ["Max", "John", "Mark"] // debe ser "Max, John and Mark like this"
+likes ["Alex", "Jacob", "Mark", "Max"] // debe ser "Alex, Jacob and 2 others like this"
 ```
 
 ---
@@ -57,7 +57,7 @@ Tu tarea es ordenar una hilera de caracteres. Cada palabra en la hilera va a con
 
 Nota: Los numeros iran de 1 a 9. El primer numero siempre sera 1 (no 0).
 
-Si la hilera que entra esta vacia, devuelve una hilera vacia. Las palabras en la hilera entranto solo contendran numeros validos consecutivos.
+Si la hilera que entra esta vacia, devuelve una hilera vacia. Las palabras en la hilera entrante solo contendran numeros validos consecutivos.
 
 Ejemplos:
 
