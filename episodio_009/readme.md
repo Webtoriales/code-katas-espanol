@@ -57,6 +57,26 @@ Dado un tipo de vecindario (`"moore"` o `"von_neumann"`), una matriz 2D (un arre
 * Si la matriz está vacía, devuelve una lista vacía
 * Orden de los índices: el primer índice se debe aplicar para la capa de matriz externa/primera y el último índice para la capa más interna/última. `coordinates = (m, n)` deben aplicarse como `mat[m][n]`
 
+**Ejemplos**
+
+```
+\ n   0    1    2    3    4
+m  --------------------------
+0  |  0 |  1 |  2 |  3 |  4 |
+1  |  5 |  6 |  7 |  8 |  9 |
+2  | 10 | 11 | 12 | 13 | 14 |
+3  | 15 | 16 | 17 | 18 | 19 |
+4  | 20 | 21 | 22 | 23 | 24 |
+   --------------------------
+
+get_neighborhood("moore", mat, (1,1)) == [0, 1, 2, 5, 7, 10, 11, 12]
+get_neighborhood("moore", mat, (0,0)) == [1, 6, 5]
+get_neighborhood("moore", mat, (4,2)) == [21, 16, 17, 18, 23]
+get_neighborhood("von_neumann", mat, (1,1)) == [1, 5, 7, 11]
+get_neighborhood("von_neumann", mat, (0,0)) == [1, 5]
+get_neighborhood("von_neumann", mat, (4,2)) == [21, 17, 23]
+```
+
 ---
 
 ## Un par de guantes
